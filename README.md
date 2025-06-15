@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Sumaiya Jaweed
 
-<!--
-**sumaiya-j/sumaiya-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Graduate | 💻 Python | 📊 Data Analytics | 🤖 ML & Data Science Enthusiast
 
-Here are some ideas to get you started:
+🔍 Passionate about building intelligent solutions using data and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 My Projects
+- 🛍️ ProductBot Chatbot(https://appuctbot-chatbot-bdthxrcsn8shefhjhrpz7k.streamlit.app/) – A chatbot that details every electronic device ever launched. Built with Python, Streamlit, and fuzzy matching.
+- 📈 IPL Dashboard in Power BI – Interactive team and player performance visualizations.
+- 🧠 Transformer-based Text Summarizer – Built using HuggingFace transformers and deployed on Streamlit.
+- 📊 Instagram User Insights – SQL-based analytics for marketing teams.
+
+ 🛠️ Skills
+- Python, SQL, Pandas, NumPy
+- Machine Learning, NLP, Transformers
+- Power BI, Excel, Streamlit
+- Web Scraping, Automation
+- Git, GitHub, APIs
+
+ 📫 Let's Connect
+📧 sumaiyajaweed22@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/sumaiya-jaweed22)  
+🌐 [Portfolio]() – coming soon
+
+
